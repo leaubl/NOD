@@ -1,2 +1,2 @@
 # NOD
-Please place LiDar file here.
+Please place LiDAR files here.
